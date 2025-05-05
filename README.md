@@ -1,5 +1,3 @@
-# To-Do-list
-
 # To-Do List Web App
 
 A minimalist, responsive to-do list application with local storage persistence. Built with HTML, CSS, and JavaScript.
